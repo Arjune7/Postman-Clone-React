@@ -1,0 +1,7 @@
+/* JsonEditorPanel.css */
+.cm-activeLine {
+  background-color: transparent !important; /* Remove active line background */
+}
+.cm-cursor {
+  border-left: 1px solid white !important;
+}
